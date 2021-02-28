@@ -1,0 +1,25 @@
+{
+    "selfintro":[
+
+    ],
+    "workscontents":[
+        {
+            "id":1,
+            "name":"Zony遊戲",
+            "coverimg":"/images/work1.png",
+            "image":"",
+            "date":"2020/10~2020/12",
+            "intro":"",
+            "content":""
+        },
+        {
+            "id":2,
+            "name":"React球衣網頁",
+            "coverimg":"/images/work2.png",
+            "image":"",
+            "date":"2021/1~2021/2",
+            "intro":"",
+            "content":""
+        }
+    ]
+}
